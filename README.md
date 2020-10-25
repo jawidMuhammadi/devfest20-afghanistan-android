@@ -34,4 +34,4 @@ To get movies from API you would need an API key.
 
 ## Screenshot
 
-![Screenshot of app](assets/screenshot.png)
+![Screenshot of app](https://github.com/jawidMuhammadi/devfest20-afghanistan-android/blob/master/app/src/main/assets/screenshot.png)
