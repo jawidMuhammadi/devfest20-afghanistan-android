@@ -1,7 +1,8 @@
-package com.devfest20afhganistan.bookmyshow
+package com.devfest20afhganistan.bookmyshow.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.devfest20afhganistan.bookmyshow.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
