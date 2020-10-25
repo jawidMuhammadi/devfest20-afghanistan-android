@@ -64,6 +64,8 @@ class MainActivity : AppCompatActivity() {
 
     private fun showMovies(movies: List<Movie>) {
         recyclerView.visibility = View.VISIBLE
+        // use this setting to improve performance if you know that changes
+        // in content do not change the layout size of the RecyclerView
         recyclerView.setHasFixedSize(true)
         recyclerView.itemAnimator = DefaultItemAnimator()
         recyclerView.adapter = MoviesAdapter(movies)
