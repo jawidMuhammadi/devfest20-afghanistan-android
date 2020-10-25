@@ -31,3 +31,7 @@ To get movies from API you would need an API key.
 >4. Do login with the username and the password(you provided during signup)
 >5. On Top right corner -> Click on your profile icon -> Settings -> API  -> Request an Api Key -> Choose developer option(for demo/sample project ) -> Accept the terms -> Fill all the required details (You can give dummy value for application url as you won’t be having that, give good summary for application summary) -> Submit -> Copy API key and use.
 >
+
+## Screenshot
+
+![Screenshot of app](https://github.com/jawidMuhammadi/devfest20-afghanistan-android/blob/master/app/src/main/assets/screenshot.png)
