@@ -1,5 +1,10 @@
 
-# DevFest Afghanistan 2020 Mobile Track
+
+
+![DevFest Afghanistan](https://github.com/jawidMuhammadi/devfest20-afghanistan-android/blob/master/app/src/main/assets/devfest_background.jpg)
+
+
+# DevFest Afghanistan 2020 Mobile Application
 
 This is the repo for the mobile track of Devfest Afghanistan 2020. You can use this repo as your reference to check all the topics that got covered.
 
