@@ -18,7 +18,7 @@ import retrofit2.Response
 class MainActivity : AppCompatActivity() {
 
     companion object {
-        private const val API_KEY = "7bc0651fe0ea5973822df3bd27e779d9"
+        private const val API_KEY = "fed356d5936dc61e73b35108131716c2"
     }
 
     private lateinit var networkHelper: NetworkHelper
