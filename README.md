@@ -35,3 +35,16 @@ To get movies from API you would need an API key.
 ## Screenshot
 
 ![Screenshot of app](https://github.com/jawidMuhammadi/devfest20-afghanistan-android/blob/master/app/src/main/assets/screenshot.png)
+
+
+# Why Kotlin?
+- Statically typed, object-oriented, modern programming language
+- Properties and extenstions classes
+- Created from developers for developers
+- Concise, much less boilerplate code than some other lanuguages
+- Increase null safety with nullable and non-nulllable data types
+- Open sourced
+- Supports lambdas and higher-order functions
+- Fully compatible with the Java language, so that you can migrate over time and continue using your favourite libraries
+- Officically supported for Android development, and included with Intelli and Android Studio
+
